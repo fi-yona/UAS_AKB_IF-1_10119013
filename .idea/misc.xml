@@ -24,11 +24,14 @@
         <entry key="..\:/Users/fiona/AndroidStudioProjects/UAS_AKB_IF1_10119013/app/src/main/res/layout/fragment_dashboard.xml" value="0.2" />
         <entry key="..\:/Users/fiona/AndroidStudioProjects/UAS_AKB_IF1_10119013/app/src/main/res/layout/fragment_gallery.xml" value="0.2" />
         <entry key="..\:/Users/fiona/AndroidStudioProjects/UAS_AKB_IF1_10119013/app/src/main/res/layout/fragment_home.xml" value="0.2" />
-        <entry key="..\:/Users/fiona/AndroidStudioProjects/UAS_AKB_IF1_10119013/app/src/main/res/layout/fragment_informasi.xml" value="0.2" />
+        <entry key="..\:/Users/fiona/AndroidStudioProjects/UAS_AKB_IF1_10119013/app/src/main/res/layout/fragment_informasi.xml" value="0.33" />
         <entry key="..\:/Users/fiona/AndroidStudioProjects/UAS_AKB_IF1_10119013/app/src/main/res/layout/fragment_logout.xml" value="0.2" />
+        <entry key="..\:/Users/fiona/AndroidStudioProjects/UAS_AKB_IF1_10119013/app/src/main/res/layout/fragment_made_by_view_pager.xml" value="0.184375" />
         <entry key="..\:/Users/fiona/AndroidStudioProjects/UAS_AKB_IF1_10119013/app/src/main/res/layout/fragment_notifications.xml" value="0.2" />
         <entry key="..\:/Users/fiona/AndroidStudioProjects/UAS_AKB_IF1_10119013/app/src/main/res/layout/fragment_profil.xml" value="0.22" />
         <entry key="..\:/Users/fiona/AndroidStudioProjects/UAS_AKB_IF1_10119013/app/src/main/res/layout/fragment_slideshow.xml" value="0.2" />
+        <entry key="..\:/Users/fiona/AndroidStudioProjects/UAS_AKB_IF1_10119013/app/src/main/res/layout/fragment_tentang_view_pager.xml" value="0.184375" />
+        <entry key="..\:/Users/fiona/AndroidStudioProjects/UAS_AKB_IF1_10119013/app/src/main/res/layout/fragment_versi_view_pager.xml" value="0.184375" />
         <entry key="..\:/Users/fiona/AndroidStudioProjects/UAS_AKB_IF1_10119013/app/src/main/res/layout/nav_header_menu.xml" value="0.33" />
         <entry key="..\:/Users/fiona/AndroidStudioProjects/UAS_AKB_IF1_10119013/app/src/main/res/menu/activity_main_drawer.xml" value="0.2" />
         <entry key="..\:/Users/fiona/AndroidStudioProjects/UAS_AKB_IF1_10119013/app/src/main/res/menu/bottom_nav_menu.xml" value="0.2" />
