@@ -55,9 +55,9 @@
         android:text="MULAI"
         android:textAlignment="center"
         android:textColor="@color/black"
-        android:textSize="14sp"
+        android:textSize="20sp"
         android:textStyle="bold"
         android:viewportWidth="160"
-        android:viewportHeight="33"/>
-    
+        android:viewportHeight="33" />
+
 </RelativeLayout>

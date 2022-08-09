@@ -3,7 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/fiona/AndroidStudioProjects/UAS_AKB_IF1_10119013/app/src/main/res/drawable/login.xml" value="0.2015" />
         <entry key="..\:/Users/fiona/AndroidStudioProjects/UAS_AKB_IF1_10119013/app/src/main/res/drawable/splash_background.xml" value="0.2015" />
+        <entry key="..\:/Users/fiona/AndroidStudioProjects/UAS_AKB_IF1_10119013/app/src/main/res/layout-w1240dp/activity_login.xml" value="0.11847389558232932" />
+        <entry key="..\:/Users/fiona/AndroidStudioProjects/UAS_AKB_IF1_10119013/app/src/main/res/layout-w936dp/activity_login.xml" value="0.13828125" />
+        <entry key="..\:/Users/fiona/AndroidStudioProjects/UAS_AKB_IF1_10119013/app/src/main/res/layout/activity_login.xml" value="0.25" />
         <entry key="..\:/Users/fiona/AndroidStudioProjects/UAS_AKB_IF1_10119013/app/src/main/res/layout/activity_main.xml" value="0.2" />
         <entry key="..\:/Users/fiona/AndroidStudioProjects/UAS_AKB_IF1_10119013/app/src/main/res/layout/activity_splashscreen.xml" value="0.22" />
       </map>
