@@ -1,6 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
-    android:layout_height="match_parent">
-    
-</RelativeLayout>
+    android:layout_height="match_parent"
+    tools:context=".ui.informasi.MadeByViewPagerFragment"
+    android:background="@drawable/login">
+
+        <TextView
+            android:id="@+id/info_madeby"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="50dp"
+            android:layout_marginBottom="5dp"
+            android:clickable="true"
+            android:text="Dibuat oleh Fiona Avila Putri\n10119013"
+            android:textAlignment="center"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+</FrameLayout>
