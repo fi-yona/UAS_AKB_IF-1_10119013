@@ -3,8 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/fiona/AndroidStudioProjects/UAS_AKB_IF1_10119013/app/src/main/res/drawable/ic_notifications_black_24dp.xml" value="0.2015" />
         <entry key="..\:/Users/fiona/AndroidStudioProjects/UAS_AKB_IF1_10119013/app/src/main/res/drawable/login.xml" value="0.2015" />
+        <entry key="..\:/Users/fiona/AndroidStudioProjects/UAS_AKB_IF1_10119013/app/src/main/res/drawable/rectangle_button.xml" value="0.2015" />
+        <entry key="..\:/Users/fiona/AndroidStudioProjects/UAS_AKB_IF1_10119013/app/src/main/res/drawable/side_nav_bar.xml" value="0.2015" />
         <entry key="..\:/Users/fiona/AndroidStudioProjects/UAS_AKB_IF1_10119013/app/src/main/res/drawable/splash_background.xml" value="0.2015" />
+        <entry key="..\:/Users/fiona/AndroidStudioProjects/UAS_AKB_IF1_10119013/app/src/main/res/drawable/toolbar_style.xml" value="0.2015" />
         <entry key="..\:/Users/fiona/AndroidStudioProjects/UAS_AKB_IF1_10119013/app/src/main/res/layout-w1240dp/activity_login.xml" value="0.11847389558232932" />
         <entry key="..\:/Users/fiona/AndroidStudioProjects/UAS_AKB_IF1_10119013/app/src/main/res/layout-w936dp/activity_login.xml" value="0.13828125" />
         <entry key="..\:/Users/fiona/AndroidStudioProjects/UAS_AKB_IF1_10119013/app/src/main/res/layout/activity_login.xml" value="0.25" />
@@ -12,13 +16,18 @@
         <entry key="..\:/Users/fiona/AndroidStudioProjects/UAS_AKB_IF1_10119013/app/src/main/res/layout/activity_menu.xml" value="0.16168478260869565" />
         <entry key="..\:/Users/fiona/AndroidStudioProjects/UAS_AKB_IF1_10119013/app/src/main/res/layout/activity_profil.xml" value="0.2" />
         <entry key="..\:/Users/fiona/AndroidStudioProjects/UAS_AKB_IF1_10119013/app/src/main/res/layout/activity_splashscreen.xml" value="0.22" />
+        <entry key="..\:/Users/fiona/AndroidStudioProjects/UAS_AKB_IF1_10119013/app/src/main/res/layout/app_bar_menu.xml" value="0.2" />
+        <entry key="..\:/Users/fiona/AndroidStudioProjects/UAS_AKB_IF1_10119013/app/src/main/res/layout/content_menu.xml" value="0.2" />
         <entry key="..\:/Users/fiona/AndroidStudioProjects/UAS_AKB_IF1_10119013/app/src/main/res/layout/fragment_catatanharian.xml" value="0.2" />
         <entry key="..\:/Users/fiona/AndroidStudioProjects/UAS_AKB_IF1_10119013/app/src/main/res/layout/fragment_dashboard.xml" value="0.2" />
+        <entry key="..\:/Users/fiona/AndroidStudioProjects/UAS_AKB_IF1_10119013/app/src/main/res/layout/fragment_gallery.xml" value="0.2" />
         <entry key="..\:/Users/fiona/AndroidStudioProjects/UAS_AKB_IF1_10119013/app/src/main/res/layout/fragment_home.xml" value="0.2" />
         <entry key="..\:/Users/fiona/AndroidStudioProjects/UAS_AKB_IF1_10119013/app/src/main/res/layout/fragment_informasi.xml" value="0.2" />
         <entry key="..\:/Users/fiona/AndroidStudioProjects/UAS_AKB_IF1_10119013/app/src/main/res/layout/fragment_logout.xml" value="0.2" />
         <entry key="..\:/Users/fiona/AndroidStudioProjects/UAS_AKB_IF1_10119013/app/src/main/res/layout/fragment_notifications.xml" value="0.2" />
         <entry key="..\:/Users/fiona/AndroidStudioProjects/UAS_AKB_IF1_10119013/app/src/main/res/layout/fragment_profil.xml" value="0.2" />
+        <entry key="..\:/Users/fiona/AndroidStudioProjects/UAS_AKB_IF1_10119013/app/src/main/res/layout/fragment_slideshow.xml" value="0.2" />
+        <entry key="..\:/Users/fiona/AndroidStudioProjects/UAS_AKB_IF1_10119013/app/src/main/res/layout/nav_header_menu.xml" value="0.33" />
         <entry key="..\:/Users/fiona/AndroidStudioProjects/UAS_AKB_IF1_10119013/app/src/main/res/menu/activity_main_drawer.xml" value="0.2" />
         <entry key="..\:/Users/fiona/AndroidStudioProjects/UAS_AKB_IF1_10119013/app/src/main/res/menu/bottom_nav_menu.xml" value="0.2" />
         <entry key="..\:/Users/fiona/AndroidStudioProjects/UAS_AKB_IF1_10119013/app/src/main/res/menu/menu.xml" value="0.2" />

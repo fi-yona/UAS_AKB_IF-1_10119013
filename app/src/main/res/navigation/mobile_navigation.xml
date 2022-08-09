@@ -2,14 +2,14 @@
 <navigation xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
-    android:id="@+id/mobile_navigation4"
-    app:startDestination="@+id/nav_home">
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@id/nav_profil">
 
     <fragment
-        android:id="@+id/nav_home"
-        android:name="com.example.uas_akb_if1_10119013.ui.home.HomeFragment"
-        android:label="@string/menu_home"
-        tools:layout="@layout/fragment_home" />
+        android:id="@+id/nav_profil"
+        android:name="com.example.uas_akb_if1_10119013.ui.profil.ProfilFragment"
+        android:label="Profil"
+        tools:layout="@layout/fragment_profil" />
 
     <fragment
         android:id="@+id/nav_gallery"
