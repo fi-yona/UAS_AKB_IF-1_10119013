@@ -7,7 +7,6 @@
     tools:context=".ui.profil.ProfilFragment"
     android:background="@drawable/login">
 
-
     <ImageView
         android:id="@+id/foto_profil"
         android:layout_width="wrap_content"
@@ -18,4 +17,174 @@
         android:layout_marginTop="50dp"
         android:layout_marginBottom="5dp"
         />
+
+    <TextView
+        android:id="@+id/label_nim"
+        android:layout_width="90dp"
+        android:layout_height="40dp"
+        android:layout_below="@id/foto_profil"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="25dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginBottom="5dp"
+        android:gravity="right|center_vertical"
+        android:text="NIM:"
+        android:textColor="@color/black"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/data_nim"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_below="@id/foto_profil"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginRight="25dp"
+        android:layout_marginBottom="5dp"
+        android:layout_toEndOf="@id/label_nim"
+        android:gravity="left|center_vertical"
+        android:text="10119013"
+        android:textColor="@color/black"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/label_nama"
+        android:layout_width="90dp"
+        android:layout_height="40dp"
+        android:layout_below="@id/label_nim"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="25dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginBottom="5dp"
+        android:gravity="right|center_vertical"
+        android:text="NAMA:"
+        android:textColor="@color/black"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/data_nama"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_below="@id/data_nim"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="5dp"
+        android:layout_marginRight="25dp"
+        android:layout_marginBottom="5dp"
+        android:layout_marginLeft="10dp"
+        android:layout_toEndOf="@id/label_nama"
+        android:gravity="left|center_vertical"
+        android:text="Fiona Avila Putri"
+        android:textColor="@color/black"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/label_kelas"
+        android:layout_width="90dp"
+        android:layout_height="40dp"
+        android:layout_below="@id/label_nama"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="25dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginBottom="5dp"
+        android:gravity="right|center_vertical"
+        android:text="KELAS:"
+        android:textColor="@color/black"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/data_kelas"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_below="@id/data_nama"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="5dp"
+        android:layout_marginRight="25dp"
+        android:layout_marginBottom="5dp"
+        android:layout_marginLeft="10dp"
+        android:layout_toEndOf="@id/label_kelas"
+        android:gravity="left|center_vertical"
+        android:text="IF-1"
+        android:textColor="@color/black"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/label_email1"
+        android:layout_width="90dp"
+        android:layout_height="40dp"
+        android:layout_below="@id/label_kelas"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="25dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginBottom="5dp"
+        android:gravity="right|center_vertical"
+        android:text="EMAIL 1:"
+        android:textColor="@color/black"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/data_email1"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_below="@id/data_kelas"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="5dp"
+        android:layout_marginRight="25dp"
+        android:layout_marginBottom="5dp"
+        android:layout_marginLeft="10dp"
+        android:layout_toEndOf="@id/label_email1"
+        android:gravity="left|center_vertical"
+        android:text="fionaavila15@gmail.com"
+        android:textColor="@color/black"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/label_email2"
+        android:layout_width="90dp"
+        android:layout_height="40dp"
+        android:layout_below="@id/label_email1"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="25dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginBottom="5dp"
+        android:gravity="right|center_vertical"
+        android:text="EMAIL 2:"
+        android:textColor="@color/black"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/data_email2"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_below="@id/data_email1"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginRight="25dp"
+        android:layout_marginBottom="5dp"
+        android:layout_toEndOf="@id/label_email2"
+        android:gravity="left|center_vertical"
+        android:text="fiona.10119013@mahasiswa.unikom.ac.id"
+        android:textColor="@color/black"
+        android:textSize="18sp" />
 </RelativeLayout>
