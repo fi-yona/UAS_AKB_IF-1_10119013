@@ -3,8 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".ui.informasi.MadeByViewPagerFragment"
-    android:background="@drawable/login">
+    tools:context=".ui.informasi.MadeByViewPagerFragment">
 
         <TextView
             android:id="@+id/info_madeby"
@@ -12,7 +11,7 @@
             android:layout_height="wrap_content"
             android:layout_alignParentTop="true"
             android:layout_centerHorizontal="true"
-            android:layout_marginTop="50dp"
+            android:layout_marginTop="100dp"
             android:layout_marginBottom="5dp"
             android:clickable="true"
             android:text="Dibuat oleh Fiona Avila Putri\n10119013"
