@@ -18,8 +18,8 @@
         tools:layout="@layout/fragment_gallery" />
 
     <fragment
-        android:id="@+id/nav_slideshow"
-        android:name="com.example.uas_akb_if1_10119013.ui.slideshow.SlideshowFragment"
-        android:label="@string/menu_slideshow"
-        tools:layout="@layout/fragment_slideshow" />
+        android:id="@+id/nav_informasi"
+        android:name="com.example.uas_akb_if1_10119013.ui.informasi.InformasiFragment"
+        android:label="Informasi"
+        tools:layout="@layout/fragment_informasi" />
 </navigation>
