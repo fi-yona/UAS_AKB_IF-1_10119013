@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.catatanharian.UpdateCatatanHarianActivity"
+    android:background="@drawable/login">
+
+    <EditText
+        android:id="@+id/input_judul_update"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Judul"
+        android:inputType="text"
+        android:textColor="#4E7463"
+        android:textSize="20dp"
+        android:textColorHint="#90B5A4"
+        android:fontFamily="sans-serif"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_marginTop="30dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        />
+
+    <EditText
+        android:id="@+id/input_kategori_update"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:hint="Kategori"
+        android:inputType="text"
+        android:textColor="#4E7463"
+        android:textSize="20dp"
+        android:textColorHint="#90B5A4"
+        android:fontFamily="sans-serif"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/input_judul_update"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"/>
+
+    <EditText
+        android:id="@+id/input_isi_update"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:hint="Isi Catatan"
+        android:inputType="text"
+        android:textColor="#4E7463"
+        android:textSize="20dp"
+        android:textColorHint="#90B5A4"
+        android:fontFamily="sans-serif"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/input_kategori_update"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"/>
+
+    <Button
+        android:id="@+id/button_update"
+        android:layout_width="158dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40dp"
+        android:text="Update"
+        android:textAllCaps="true"
+        android:textSize="20sp"
+        android:textColor="#4E7463"
+        android:backgroundTint="#92E3A9"
+        android:strokeColor="#47000000"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/input_isi_update"/>
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/button_delete"
+        android:layout_width="158dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40dp"
+        android:text="DELETE"
+        android:textAllCaps="true"
+        android:textSize="20sp"
+        android:textColor="#4E7463"
+        android:backgroundTint="#E39292"
+        android:strokeColor="#47000000"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/button_update" />
+
+    <Button
+        android:id="@+id/button_back"
+        android:layout_width="158dp"
+        android:layout_height="wrap_content"
+        android:backgroundTint="#4E7463"
+        android:strokeColor="#47000000"
+        android:text="Back"
+        android:textAllCaps="true"
+        android:textColor="#92E3A9"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        android:layout_marginBottom="50dp" />
+</androidx.constraintlayout.widget.ConstraintLayout>
