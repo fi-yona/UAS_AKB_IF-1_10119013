@@ -12,10 +12,10 @@
         tools:layout="@layout/fragment_profil" />
 
     <fragment
-        android:id="@+id/nav_gallery"
-        android:name="com.example.uas_akb_if1_10119013.ui.gallery.GalleryFragment"
-        android:label="@string/menu_gallery"
-        tools:layout="@layout/fragment_gallery" />
+        android:id="@+id/nav_catatanharian"
+        android:name="com.example.uas_akb_if1_10119013.ui.catatanharian.CatatanHarianFragment"
+        android:label="Catatan Harian"
+        tools:layout="@layout/fragment_catatanharian" />
 
     <fragment
         android:id="@+id/nav_informasi"
