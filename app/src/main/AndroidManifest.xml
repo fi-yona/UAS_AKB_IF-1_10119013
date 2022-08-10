@@ -8,7 +8,7 @@
         android:dataExtractionRules="@xml/data_extraction_rules"
         android:fullBackupContent="@xml/backup_rules"
         android:icon="@drawable/diary_splash"
-        android:label="@string/app_name"
+        android:label="Aplikasi UAS AKB 2022 - 10119013"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.UAS_AKB_IF1_10119013"
@@ -43,4 +43,5 @@
             android:parentActivityName=".MenuActivity" />
     </application>
 
+    <uses-permission android:name="android.permission.INTERNET" />
 </manifest>
