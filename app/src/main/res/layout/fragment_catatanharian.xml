@@ -16,7 +16,7 @@
         android:layout_marginBottom="28dp"
         android:clickable="true"
         android:focusable="true"
-        android:backgroundTint="#92E3A9"
+        android:backgroundTint="#FFE600"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:srcCompat="@drawable/ic_baseline_note_add_24" />
