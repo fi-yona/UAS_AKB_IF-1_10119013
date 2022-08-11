@@ -16,6 +16,10 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import com.example.uas_akb_if1_10119013.databinding.ActivityMenuBinding;
 
+//NIM   : 10119013
+//NAMA  : FIONA AVILA PUTRI
+//KELAS : IF1
+
 public class MenuActivity extends AppCompatActivity {
 
     private AppBarConfiguration mAppBarConfiguration;

@@ -16,6 +16,10 @@ import com.example.uas_akb_if1_10119013.R;
 import com.example.uas_akb_if1_10119013.databinding.FragmentInformasiBinding;
 import com.google.android.material.tabs.TabLayout;
 
+//NIM   : 10119013
+//NAMA  : FIONA AVILA PUTRI
+//KELAS : IF1
+
 public class InformasiFragment extends Fragment {
 
     private TabLayout tabLayout;

@@ -7,6 +7,10 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 
+//NIM   : 10119013
+//NAMA  : FIONA AVILA PUTRI
+//KELAS : IF1
+
 public class SplashScreenActivity extends AppCompatActivity {
 
     private Button button_mulai;

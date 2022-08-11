@@ -24,6 +24,10 @@ import com.google.android.material.floatingactionbutton.FloatingActionButton;
 import java.util.ArrayList;
 import java.util.List;
 
+//NIM   : 10119013
+//NAMA  : FIONA AVILA PUTRI
+//KELAS : IF1
+
 public class CatatanHarianFragment extends Fragment {
 
     RecyclerView recyclerView;

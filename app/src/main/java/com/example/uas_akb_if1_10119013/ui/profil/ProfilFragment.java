@@ -13,6 +13,10 @@ import androidx.lifecycle.ViewModelProvider;
 import com.example.uas_akb_if1_10119013.R;
 import com.example.uas_akb_if1_10119013.databinding.FragmentProfilBinding;
 
+//NIM   : 10119013
+//NAMA  : FIONA AVILA PUTRI
+//KELAS : IF1
+
 public class ProfilFragment extends Fragment {
 
     @Override

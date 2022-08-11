@@ -11,6 +11,10 @@ import androidx.annotation.Nullable;
 
 import com.example.uas_akb_if1_10119013.model.catatanharian.CatatanHarianModel;
 
+//NIM   : 10119013
+//NAMA  : FIONA AVILA PUTRI
+//KELAS : IF1
+
 public class DatabaseHelper extends SQLiteOpenHelper{
     private Context context;
     private static final String DATABASE_NAME = "CatatanHarian.db";

@@ -14,6 +14,10 @@ import com.example.uas_akb_if1_10119013.R;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;
 
+//NIM   : 10119013
+//NAMA  : FIONA AVILA PUTRI
+//KELAS : IF1
+
 public class LogoutFragment extends Fragment {
 
     private Button button_yakin_keluar;

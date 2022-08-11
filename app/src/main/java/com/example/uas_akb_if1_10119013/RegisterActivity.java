@@ -19,6 +19,10 @@ import com.google.android.gms.tasks.Task;
 import com.google.firebase.auth.AuthResult;
 import com.google.firebase.auth.FirebaseAuth;
 
+//NIM   : 10119013
+//NAMA  : FIONA AVILA PUTRI
+//KELAS : IF1
+
 public class RegisterActivity extends AppCompatActivity {
     private EditText input_email, input_password;
     private Button button_back_login, button_register;
