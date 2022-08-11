@@ -22,4 +22,10 @@
         android:name="com.example.uas_akb_if1_10119013.ui.informasi.InformasiFragment"
         android:label="Informasi"
         tools:layout="@layout/fragment_informasi" />
+
+    <fragment
+        android:id="@+id/nav_logout"
+        android:name="com.example.uas_akb_if1_10119013.ui.logout.LogoutFragment"
+        android:label="Logout"
+        tools:layout="@layout/fragment_logout" />
 </navigation>

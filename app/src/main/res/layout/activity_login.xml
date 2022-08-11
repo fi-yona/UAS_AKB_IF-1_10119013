@@ -105,7 +105,8 @@
         android:textSize="20sp"
         android:textStyle="bold"
         android:viewportWidth="160"
-        android:viewportHeight="33" />
+        android:viewportHeight="33"
+        />
 
     <Button
         android:id="@+id/rectangle_button_daftar"
