@@ -24,6 +24,7 @@ public class LoginActivity extends AppCompatActivity {
 
     private Button button_enter_login;
     private Button button_register;
+    private Button button_lupa_password;
     private EditText input_email, input_password;
     private FirebaseAuth auth;
 
@@ -38,6 +39,7 @@ public class LoginActivity extends AppCompatActivity {
         input_password = (EditText) findViewById(R.id.input_password);
         button_enter_login = (Button) findViewById(R.id.rectangle_button_login);
         button_register = (Button) findViewById(R.id.rectangle_button_daftar);
+        button_lupa_password = findViewById(R.id.click_lupa_password);
 
         auth = FirebaseAuth.getInstance();
 
@@ -75,6 +77,13 @@ public class LoginActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 startActivity(new Intent(LoginActivity.this, RegisterActivity.class));
+            }
+        });
+
+        button_lupa_password.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                startActivity(new Intent(LoginActivity.this, ResetPasswordActivity.class));
             }
         });
     }

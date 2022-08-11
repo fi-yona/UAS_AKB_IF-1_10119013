@@ -5,6 +5,7 @@
       <map>
         <entry key="..\:/Users/fiona/AndroidStudioProjects/UAS_AKB_IF1_10119013/app/src/main/res/drawable-v24/ic_baseline_clear_24.xml" value="0.147" />
         <entry key="..\:/Users/fiona/AndroidStudioProjects/UAS_AKB_IF1_10119013/app/src/main/res/drawable-v24/ic_baseline_note_add_24.xml" value="0.147" />
+        <entry key="..\:/Users/fiona/AndroidStudioProjects/UAS_AKB_IF1_10119013/app/src/main/res/drawable/activity_resetpassword.xml" value="0.147" />
         <entry key="..\:/Users/fiona/AndroidStudioProjects/UAS_AKB_IF1_10119013/app/src/main/res/drawable/ic_dashboard_black_24dp.xml" value="0.147" />
         <entry key="..\:/Users/fiona/AndroidStudioProjects/UAS_AKB_IF1_10119013/app/src/main/res/drawable/ic_home_black_24dp.xml" value="0.147" />
         <entry key="..\:/Users/fiona/AndroidStudioProjects/UAS_AKB_IF1_10119013/app/src/main/res/drawable/ic_informasi.xml" value="0.147" />
@@ -29,6 +30,7 @@
         <entry key="..\:/Users/fiona/AndroidStudioProjects/UAS_AKB_IF1_10119013/app/src/main/res/layout/activity_menu.xml" value="0.16168478260869565" />
         <entry key="..\:/Users/fiona/AndroidStudioProjects/UAS_AKB_IF1_10119013/app/src/main/res/layout/activity_profil.xml" value="0.2" />
         <entry key="..\:/Users/fiona/AndroidStudioProjects/UAS_AKB_IF1_10119013/app/src/main/res/layout/activity_register.xml" value="0.1" />
+        <entry key="..\:/Users/fiona/AndroidStudioProjects/UAS_AKB_IF1_10119013/app/src/main/res/layout/activity_reset_password.xml" value="0.2" />
         <entry key="..\:/Users/fiona/AndroidStudioProjects/UAS_AKB_IF1_10119013/app/src/main/res/layout/activity_splashscreen.xml" value="0.22" />
         <entry key="..\:/Users/fiona/AndroidStudioProjects/UAS_AKB_IF1_10119013/app/src/main/res/layout/activity_update_catatanharian.xml" value="0.33" />
         <entry key="..\:/Users/fiona/AndroidStudioProjects/UAS_AKB_IF1_10119013/app/src/main/res/layout/app_bar_menu.xml" value="0.2" />
