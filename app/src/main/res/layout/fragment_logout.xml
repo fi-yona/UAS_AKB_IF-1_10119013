@@ -34,7 +34,7 @@
         android:layout_marginTop="10dp"
         android:layout_marginEnd="10dp"
         android:layout_marginBottom="10dp"
-        android:backgroundTint="#FFE600"
+        android:backgroundTint="#E39292"
         android:elevation="20dp"
         android:strokeWidth="10"
         android:strokeColor="#47000000"
@@ -46,25 +46,4 @@
         android:viewportWidth="160"
         android:viewportHeight="33" />
 
-    <Button
-        android:id="@+id/back_logout"
-        android:layout_width="158dp"
-        android:layout_height="wrap_content"
-        android:layout_below="@id/yakin_logout"
-        android:layout_centerHorizontal="true"
-        android:layout_marginStart="10dp"
-        android:layout_marginTop="10dp"
-        android:layout_marginEnd="10dp"
-        android:layout_marginBottom="10dp"
-        android:backgroundTint="#C8B71E"
-        android:elevation="20dp"
-        android:strokeWidth="10"
-        android:strokeColor="#47000000"
-        android:text="BACK"
-        android:textAlignment="center"
-        android:textColor="@color/black"
-        android:textSize="20sp"
-        android:textStyle="bold"
-        android:viewportWidth="160"
-        android:viewportHeight="33" />
 </RelativeLayout>
